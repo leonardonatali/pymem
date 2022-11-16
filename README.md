@@ -8,7 +8,7 @@
 
 - 2 Inicialização do jogo
   
-  - 1.1 Criar uma matriz 4x4 com valores aleatórios (ver a biblioteca [randint](https://docs.python.org/3/library/random.html#random.randint));
+  - Criar uma matriz 4x4 com valores aleatórios (ver a biblioteca [randint](https://docs.python.org/3/library/random.html#random.randint));
   - Imprimir a matriz na tela;
   - Apresentar as seguintes opções:
   ```bash
